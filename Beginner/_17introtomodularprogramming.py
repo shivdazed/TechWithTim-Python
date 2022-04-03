@@ -1,0 +1,3 @@
+import mafunction
+
+mafunction()
